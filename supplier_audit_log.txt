@@ -1,0 +1,4 @@
+3
+Supplier registered: Usman | ID: 909
+Supplier registered: Faran | ID: 1213
+Supplier registered: Mezan | ID: 899
